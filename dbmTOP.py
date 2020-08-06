@@ -1,6 +1,6 @@
 # 爬取豆瓣电影TOP25/50/.../250的片名、评分、评价人数、链接
 # using beautifulsoup
-# sos(part of code): https://blog.csdn.net/danielntz/article/details/51861168
+# rf(part of code): https://blog.csdn.net/danielntz/article/details/51861168
 
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
@@ -21,13 +21,12 @@ lis = list()
 lis.append(url)
 
 for url in lis:
-    #print('Retrieving: ', url)
     if len(lis) == int(count) + 1: 
         print('End')
         break
     else:
         # 被反爬虫机制拦截：模拟浏览器访问
-        # sos: https://blog.csdn.net/sinat_37812785/article/details/104247874
+        # rf: https://blog.csdn.net/sinat_37812785/article/details/104247874
         headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Mobile Safari/537.36'}
         burl = Request(url, headers=headers)
         html = urlopen(burl).read()
