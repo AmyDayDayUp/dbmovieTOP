@@ -1,0 +1,56 @@
+/home/peuapeu/sharing/dbmovieTOP
+------------------
+豆瓣电影TOP50 2020-08-07
+影片名                           	评分       	评价人数              	链接                            
+肖申克的救赎                        	9.7      	2101715人评价        	https://movie.douban.com/subject/1292052/
+霸王别姬                          	9.6      	1558620人评价        	https://movie.douban.com/subject/1291546/
+阿甘正传                          	9.5      	1588604人评价        	https://movie.douban.com/subject/1292720/
+这个杀手不太冷                       	9.4      	1776366人评价        	https://movie.douban.com/subject/1295644/
+泰坦尼克号                         	9.4      	1541259人评价        	https://movie.douban.com/subject/1292722/
+美丽人生                          	9.5      	992241人评价         	https://movie.douban.com/subject/1292063/
+千与千寻                          	9.4      	1651569人评价        	https://movie.douban.com/subject/1291561/
+辛德勒的名单                        	9.5      	808069人评价         	https://movie.douban.com/subject/1295124/
+盗梦空间                          	9.3      	1514857人评价        	https://movie.douban.com/subject/3541415/
+忠犬八公的故事                       	9.4      	1054526人评价        	https://movie.douban.com/subject/3011091/
+海上钢琴师                         	9.3      	1263353人评价        	https://movie.douban.com/subject/1292001/
+楚门的世界                         	9.3      	1137211人评价        	https://movie.douban.com/subject/1292064/
+三傻大闹宝莱坞                       	9.2      	1406144人评价        	https://movie.douban.com/subject/3793023/
+机器人总动员                        	9.3      	995851人评价         	https://movie.douban.com/subject/2131459/
+放牛班的春天                        	9.3      	978364人评价         	https://movie.douban.com/subject/1291549/
+星际穿越                          	9.3      	1166486人评价        	https://movie.douban.com/subject/1889243/
+大话西游之大圣娶亲                     	9.2      	1117131人评价        	https://movie.douban.com/subject/1292213/
+熔炉                            	9.3      	686509人评价         	https://movie.douban.com/subject/5912992/
+疯狂动物城                         	9.2      	1340440人评价        	https://movie.douban.com/subject/25662329/
+无间道                           	9.2      	909144人评价         	https://movie.douban.com/subject/1307914/
+龙猫                            	9.2      	939796人评价         	https://movie.douban.com/subject/1291560/
+教父                            	9.3      	686248人评价         	https://movie.douban.com/subject/1291841/
+当幸福来敲门                        	9.1      	1132039人评价        	https://movie.douban.com/subject/1849031/
+怦然心动                          	9.1      	1312622人评价        	https://movie.douban.com/subject/3319755/
+触不可及                          	9.2      	732668人评价         	https://movie.douban.com/subject/6786002/
+控方证人                          	9.6      	300100人评价         	https://movie.douban.com/subject/1296141/
+蝙蝠侠：黑暗骑士                      	9.2      	757750人评价         	https://movie.douban.com/subject/1851857/
+活着                            	9.2      	589670人评价         	https://movie.douban.com/subject/1292365/
+寻梦环游记                         	9.1      	1126658人评价        	https://movie.douban.com/subject/20495023/
+末代皇帝                          	9.3      	542154人评价         	https://movie.douban.com/subject/1293172/
+乱世佳人                          	9.3      	505027人评价         	https://movie.douban.com/subject/1300267/
+何以为家                          	9.1      	695717人评价         	https://movie.douban.com/subject/30170448/
+摔跤吧！爸爸                        	9.0      	1155120人评价        	https://movie.douban.com/subject/26387939/
+指环王3：王者无敌                     	9.2      	557047人评价         	https://movie.douban.com/subject/1291552/
+飞屋环游记                         	9.0      	985408人评价         	https://movie.douban.com/subject/2129039/
+少年派的奇幻漂流                      	9.1      	1050929人评价        	https://movie.douban.com/subject/1929463/
+十二怒汉                          	9.4      	336841人评价         	https://movie.douban.com/subject/1293182/
+鬼子来了                          	9.2      	453382人评价         	https://movie.douban.com/subject/1291858/
+素媛                            	9.2      	461880人评价         	https://movie.douban.com/subject/21937452/
+哈尔的移动城堡                       	9.1      	721365人评价         	https://movie.douban.com/subject/1308807/
+天空之城                          	9.1      	624437人评价         	https://movie.douban.com/subject/1291583/
+大话西游之月光宝盒                     	9.0      	892517人评价         	https://movie.douban.com/subject/1299398/
+哈利·波特与魔法石                     	9.0      	697514人评价         	https://movie.douban.com/subject/1295038/
+天堂电影院                         	9.2      	484673人评价         	https://movie.douban.com/subject/1291828/
+罗马假日                          	9.0      	720625人评价         	https://movie.douban.com/subject/1293839/
+闻香识女人                         	9.1      	628028人评价         	https://movie.douban.com/subject/1298624/
+辩护人                           	9.2      	451031人评价         	https://movie.douban.com/subject/21937445/
+我不是药神                         	9.0      	1541824人评价        	https://movie.douban.com/subject/26752088/
+搏击俱乐部                         	9.0      	644684人评价         	https://movie.douban.com/subject/1292000/
+教父2                           	9.2      	380485人评价         	https://movie.douban.com/subject/1299131/
+End
+------------------
